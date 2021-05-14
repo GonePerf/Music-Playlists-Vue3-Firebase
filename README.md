@@ -1,4 +1,5 @@
-# music-playlists
+# Music-Playlists
+## Vue3 & Firebase 
 
 ## Project setup
 ```
