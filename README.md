@@ -1,5 +1,6 @@
 # Music-Playlists
-## Vue3 & Firebase 
+## Vue3 & Firebase
+# Preview: https://music-playlists-91c86.web.app/signup
 
 ## Project setup
 ```
